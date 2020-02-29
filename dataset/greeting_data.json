@@ -1,0 +1,32 @@
+{
+    "_msg": "intent can be removed: we can use file name instead",
+    "train_data": {
+        "data": [
+            {
+                "text": "hey",
+                "intent": "greet",
+                "entities": []
+            },
+            {
+                "text": "howdy",
+                "intent": "greet",
+                "entities": []
+            },
+            {
+                "text": "hey there",
+                "intent": "greet",
+                "entities": []
+            },
+            {
+                "text": "hello",
+                "intent": "greet",
+                "entities": []
+            },
+            {
+                "text": "hi",
+                "intent": "greet",
+                "entities": []
+            }
+        ]
+    }
+}

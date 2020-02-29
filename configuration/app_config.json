@@ -1,0 +1,13 @@
+{
+    "model": {
+        "epoc":100,
+        "model_output": ""
+    },
+    "train":{
+        "dir":"dataset",
+        "files":["**"]
+    },
+    "test":{
+        "src":""
+    }
+}

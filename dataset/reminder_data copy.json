@@ -1,0 +1,27 @@
+{
+    "_msg": "intent can be removed: we can use file name instead",
+    "train_data": {
+        "data": [
+            {
+                "text": "set reminder",
+                "intent": "reminder",
+                "entities": []
+            },
+            {
+                "text": "schedule reminder",
+                "intent": "reminder",
+                "entities": []
+            },
+            {
+                "text": "please remind me",
+                "intent": "reminder",
+                "entities": []
+            },
+            {
+                "text": "please let me know",
+                "intent": "reminder",
+                "entities": []
+            }
+        ]
+    }
+}
